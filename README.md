@@ -23,9 +23,12 @@ There is also design settings , and option to delete all records(it warns user i
 
 <p align="center">
 
-Page:  <br/>
+Main menu:  <br/>
 ![AAAAAAA](https://user-images.githubusercontent.com/94048443/216818933-19e8ef01-89ae-43c0-a40b-66fa02c74c03.png)
 
+Design Settings:  <br/>
+
+Warning:  <br/>
 </p>
 
 <!--
