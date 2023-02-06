@@ -24,11 +24,14 @@ There is also design settings , and option to delete all records(it warns user i
 <p align="center">
 
 Main menu:  <br/>
+![menu](https://user-images.githubusercontent.com/94048443/216947550-1d5fdf44-b829-4982-8288-a4e8ae70f29b.png)
  
 
 Design Settings:  <br/>
+![des](https://user-images.githubusercontent.com/94048443/216947738-b71417ed-2083-4c72-9a9f-639dd32a6457.png)
 
 Warning:  <br/>
+![del](https://user-images.githubusercontent.com/94048443/216947706-e56eb524-400b-409d-914c-18ad4586e5d6.png)
 </p>
 
 <!--
