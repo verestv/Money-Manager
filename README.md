@@ -9,11 +9,11 @@ There is also design settings , and option to delete all records(it warns user i
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Frameworks/Modules Used</h2>
 
 - <b>Python</b> 
 - <b>Tkinter<b>
-- <b>SQLite<b>
+- <b>SQLite , ConfigParser , Threading , winsound<b>
 
 <h2>Environments Used </h2>
 
