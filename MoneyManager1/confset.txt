@@ -1,0 +1,10 @@
+[colors]
+root_color = #00246B
+list_color = #8AB6F9
+datalabel_color = #00246B
+moneylabel_color = #00246B
+
+[fonts]
+list_font = bold roman
+font_color = #00246B
+
