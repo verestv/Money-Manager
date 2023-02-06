@@ -3,9 +3,9 @@
 
 <h2>Description</h2>
 This is user-friendly desktop application for managing your money . User inputs date and amount of money(user can do summing of amounts too , and programm will count a sum) after hitting "save" , record stored in database and outputed below.<br/>
-After 7 days app counts all your weekly spending and shows how much money u spent for previous week.<br/>
-There is also design settings , and option to delete all records(it warns user if he really wants to clear everything in case he clicked on it accidentaly).  
-
+After 7 days , app counts all your weekly spending and shows how much money u spent for previous week.<br/>
+There is also design settings , and option to delete last and all records(it warns user if he really wants to clear everything in case he clicked on "Delete all records" accidentaly).<br/>  
+After all notes are done , click quit and save. All records and design settings will be saved .
 <br />
 
 
